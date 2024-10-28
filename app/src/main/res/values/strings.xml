@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">gmailclone</string>
+    <string name="fab_description">Add new email</string> <!-- Mô tả cho FAB -->
+</resources>
